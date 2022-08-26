@@ -19,7 +19,7 @@ https://www.kaggle.com/competitions/siim-covid19-detection
 ![COVID!9-Detection (1)](https://user-images.githubusercontent.com/93903494/185777490-7f907041-4d63-4c19-896b-03a0c70a59fd.png)
 ![COVID!9-Detection (2)](https://user-images.githubusercontent.com/93903494/185777504-415e083e-fb32-4b03-a37c-1110ba793d46.png)
 ![COVID!9-Detection (3)](https://user-images.githubusercontent.com/93903494/185777513-6a6098ce-c0e2-4012-8f03-fd02046a20c4.png)
-![COVID!9-Detection (4)](https://user-images.githubusercontent.com/93903494/185777515-2ea712c7-7484-42f4-a6da-cd6262695c71.png)
+![COVID!9-Detection (16)](https://user-images.githubusercontent.com/93903494/186852391-ea2eba97-6dab-44e6-ab5a-8ca34d6530a4.png)
 ![COVID!9-Detection (5)](https://user-images.githubusercontent.com/93903494/185777518-d0c1b2bd-b6f0-4aad-b2c1-6e9c064fa216.png)
 ![COVID!9-Detection (6)](https://user-images.githubusercontent.com/93903494/185777519-a4138edd-f91a-4324-9b3a-b3d1d9b67065.png)
 ![COVID!9-Detection (7)](https://user-images.githubusercontent.com/93903494/185777520-aaa25030-2d18-4687-bfde-1803762ac182.png)
